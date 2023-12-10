@@ -1,2 +1,2 @@
 # Desktop_mascot
-using DXlib
+Introduction video (https://clipchamp.com/watch/8lVC4c8ckMW)
